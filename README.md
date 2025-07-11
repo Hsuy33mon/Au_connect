@@ -1,9 +1,7 @@
 
 # Au_connect
 
-This is a [Next.js](https://nextjs.org) project.
-
-## Getting Started
+## ✨Getting Started
 
 First, run the development server:
 
@@ -24,8 +22,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [Next.js](https://nextjs.org/) – React framework
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) – Cloud database
 - [Prisma](https://www.prisma.io/) – Database ORM
-- [Tailwind CSS](https://tailwindcss.com/) – Styling
-- [NextAuth.js](https://next-auth.js.org/) – Authentication (planned)
 
 ## Learn More
 
@@ -37,5 +33,5 @@ To learn more about Next.js, take a look at the following resources:
 ### 🧑‍💻 2. Clone the Project
 
 ```bash
-git clone https://github.com/<your-username>/au-connect.git
+git clone https://github.com/Hsuy33mon/Au_connect.git
 cd au-connect
